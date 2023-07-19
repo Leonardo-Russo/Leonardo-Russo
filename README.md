@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Satellites, Orbits and Planets**
 
-- 📫 How to reach me **leonardo.rxsso@gmail.com**
+- 📫 How to reach me &rarr; **leonardo.rxsso@gmail.com**
+
+- 📄 Know about my experiences &rarr; [**Curriculum Vitae**](https://drive.google.com/file/d/1d97RmKbTPfeyy49snZemYNsE-m4JFLGM/view?usp=sharing)
 
 - ⚡ Fun fact **I bench press 120kg**
 
