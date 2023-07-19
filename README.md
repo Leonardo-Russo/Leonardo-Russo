@@ -1,4 +1,3 @@
-[![MasterHead](https://www.nasa.gov/sites/default/files/thumbnails/image/web_first_images_release.png)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Leonardo Russo</h1>
 <h3 align="center">a Space and Aerospace Engineer</h3>
 
