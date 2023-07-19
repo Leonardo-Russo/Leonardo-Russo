@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Space Guidance and Navigation**
 
-- 💬 Ask me about **Satellite, Orbits and Planets**
+- 💬 Ask me about **Satellites, Orbits and Planets**
 
 - 📫 How to reach me **leonardo.rxsso@gmail.com**
 
