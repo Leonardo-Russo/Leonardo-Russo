@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences &rarr; [**Curriculum Vitae**](https://drive.google.com/file/d/1d97RmKbTPfeyy49snZemYNsE-m4JFLGM/view?usp=sharing)
 
-- ⚡ Fun fact **I bench press 120kg**
+- ⚡ Fun fact **I bench press 120kg but I cry a lot during movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
