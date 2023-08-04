@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Initial Orbit Determination**](https://github.com/Nxze/Initial-Orbit-Determination)
 
-- 💬 Ask me about **Satellites, Orbits and Planets**
+- 💬 Ask me about **Satellites, Robots and Software**
 
 - 📫 How to reach me &rarr; **leonardo.rxsso@gmail.com**
 
