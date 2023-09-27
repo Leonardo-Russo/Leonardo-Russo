@@ -9,7 +9,7 @@
 
 - 📫 How to reach me &rarr; **leonardo.rxsso@gmail.com**
 
-- 📄 Know about my experiences &rarr; [**Curriculum Vitae**](https://drive.google.com/file/d/1d97RmKbTPfeyy49snZemYNsE-m4JFLGM/view?usp=sharing)
+- 📄 Know about my experiences &rarr; [**Curriculum Vitae**]([https://drive.google.com/file/d/1d97RmKbTPfeyy49snZemYNsE-m4JFLGM/view?usp=sharing](https://drive.google.com/file/d/1SNUk9J2ONIfCe8BtZrE-HhRw3FPUaR-I/view?usp=drive_link))
 
 - ⚡ Fun fact **I bench press 120kg but I cry a lot during movies**
 
