@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 I’m currently working on [**Initial Orbit Determination**](https://github.com/Leonardo-Russo/Initial-Orbit-Determination)
+- 🔭 I’m currently working on [**Missile Interception with Reinforcement Learning**](https://github.com/Leonardo-Russo/Initial-Orbit-Determination)
 
-- 💬 Ask me about **Satellites, Robots and Software**
+- 💬 Ask me about **Satellites, Robotics and Machine Learning**
 
 - 📫 How to reach me &rarr; **leonardo.rxsso@gmail.com**
 
