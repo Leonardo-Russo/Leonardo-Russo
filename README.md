@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Lunar Gateway Rendezvous & Docking**](https://github.com/Leonardo-Russo/MoonHarbour-PR)
 
-- 💬 Ask me about **Satellites, Reinforcement Learning and Computer Vision**
+- 💬 Ask me about **Satellites, Machine Learning and Computer Vision**
 
 - 📫 How to reach me &rarr; **russo.2015563@studenti.uniroma1.it**
 
